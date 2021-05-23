@@ -1,0 +1,546 @@
+[
+  {
+    "title": "O Misterioso Caso de Styles",
+    "detective": ["Hercule Poirot", "Arthur Hastings", "Chief Inspector Japp"],
+    "year": 1920,
+    "image": ""
+  },
+  {
+    "title": "O Inimigo Secreto",
+    "detective": ["Tommy e Tuppence"],
+    "year": 1922,
+    "image": ""
+  },
+  {
+    "title": "Assassinato no Campo de Golfe",
+    "detective": ["Hercule Poirot", "Arthur Hastings"],
+    "year": 1923,
+    "image": ""
+  },
+  {
+    "title": "Poirot Investiga",
+    "detective": ["Hercule Poirot", "Arthur Hastings"],
+    "year": 1924,
+    "image": ""
+  },
+  {
+    "title": "O Homem do Terno Marrom",
+    "detective": ["Anne Beddingfeld"],
+    "year": 1924,
+    "image": ""
+  },
+  {
+    "title": "O Segredo de Chimneys",
+    "detective": ["Anthony Cade", "Superintendente Battle"],
+    "year": 1925,
+    "image": ""
+  },
+  {
+    "title": "O Assassinato de Roger Ackroyd",
+    "detective": ["Hercule Poirot"],
+    "year": 1926,
+    "image": ""
+  },
+  {
+    "title": "Os Quatro Grandes",
+    "detective": ["Hercule Poirot", "Arthur Hastings", "Chief Inspector Japp"],
+    "year": 1927,
+    "hp": true,
+    "image": "os_quatro_grandes"
+  },
+  {
+    "title": "O Mistério do Trem Azul",
+    "detective": ["Hercule Poirot"],
+    "year": 1928,
+    "image": ""
+  },
+  {
+    "title": "O Mistério dos Sete Relógios",
+    "detective": [
+      "Eileen Brent (\"Bundle\")",
+      "Jimmy Thesiger",
+      "Bill Eversleigh",
+      "Superintendente Battle"
+    ],
+    "year": 1929,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Sócios no Crime",
+    "detective": ["Tommy e Tuppence"],
+    "year": 1929,
+    "image": ""
+  },
+  {
+    "title": "O Misterioso Sr. Quin",
+    "detective": ["Mr. Quin", "Mr. Satterthwaite"],
+    "year": 1930,
+    "image": ""
+  },
+  {
+    "title": "Assassinato na Casa do Pastor",
+    "detective": ["Miss Marple", "Leonard Clement"],
+    "year": 1930,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "O Cadáver Atrás do Biombo",
+    "year": 1930,
+    "image": ""
+  },
+  {
+    "title": "Um Furo Jornalístico",
+    "year": 1931,
+    "image": ""
+  },
+  {
+    "title": "A Morte do Almirante",
+    "year": 1931,
+    "image": ""
+  },
+  {
+    "title": "O Mistério de Sittaford",
+    "detective": ["Emily Trefusis", "Charles Enderby", "Inspetor Narracott"],
+    "year": 1931,
+    "image": ""
+  },
+  {
+    "title": "A Casa do Penhasco",
+    "detective": ["Hercule Poirot", "Arthur Hastings", "Chief Inspector Japp"],
+    "year": 1932,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Os Treze Enigmas",
+    "detective": ["Miss Marple"],
+    "year": 1932,
+    "image": ""
+  },
+  {
+    "title": "Treze à Mesa",
+    "detective": ["Hercule Poirot", "Arthur Hastings", "Chief Inspector Japp"],
+    "year": 1933,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "O Cão da Morte",
+    "year": 1933,
+    "image": ""
+  },
+  {
+    "title": "Assassinato no Expresso Oriente",
+    "detective": ["Hercule Poirot"],
+    "year": 1934,
+    "hp": true,
+    "image": "assassinato_no_expresso_do_oriente"
+  },
+  {
+    "title": "O Mistério de Listerdale",
+    "year": 1934,
+    "image": ""
+  },
+  {
+    "title": "Por que não Pediram a Evans?",
+    "detective": ["Bobby Jones", "Frankie Derwent"],
+    "year": 1934,
+    "hp": true,
+    "image": "por_que_nao_pediram_a_evans"
+  },
+  {
+    "title": "O Detetive Parker Pyne",
+    "detective": ["Parker Pyne"],
+    "year": 1934,
+    "image": ""
+  },
+  {
+    "title": "Tragédia em Três Atos",
+    "detective": [
+      "Charles CartwrightHercule Poirot",
+      "Mr. Satterthwaite",
+      "Hermione Lytton-Gore"
+    ],
+    "year": 1934,
+    "image": ""
+  },
+  {
+    "title": "Morte nas Nuvens",
+    "detective": ["Hercule Poirot", "Chief Inspector Japp"],
+    "year": 1935,
+    "image": ""
+  },
+  {
+    "title": "Os Crimes ABC",
+    "detective": [
+      "Hercule Poirot",
+      "Arthur HastingsInspetor Crome",
+      "Chief Inspector Japp"
+    ],
+    "year": 1936,
+    "hp": true,
+    "image": "os_crimes_abc"
+  },
+  {
+    "title": "Morte na Mesopotâmia",
+    "detective": ["Hercule Poirot"],
+    "year": 1936,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Cartas na Mesa",
+    "detective": [
+      "Hercule Poirot",
+      "Coronel Race",
+      "Superintendente Battle",
+      "Ariadne Oliver"
+    ],
+    "year": 1936,
+    "image": ""
+  },
+  {
+    "title": "Assassinato no Beco",
+    "detective": ["Hercule Poirot"],
+    "year": 1937,
+    "image": ""
+  },
+  {
+    "title": "Poirot Perde uma Cliente",
+    "detective": ["Hercule Poirot", "Arthur Hastings"],
+    "year": 1937,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Morte no Nilo",
+    "detective": ["Hercule Poirot", "Coronel Race"],
+    "year": 1937,
+    "hp": true,
+    "image": "morte_no_nilo"
+  },
+  {
+    "title": "Encontro com a Morte",
+    "detective": ["Hercule Poirot"],
+    "year": 1938,
+    "image": ""
+  },
+  {
+    "title": "O Natal de Poirot",
+    "detective": ["Hercule Poirot"],
+    "year": 1938,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "É Fácil Matar",
+    "detective": ["Luke FitzwilliamBridget Conway", "Superintendente Battle"],
+    "year": 1939,
+    "image": "e_facil_matar"
+  },
+  {
+    "title": "E não sobrou nenhum",
+    "year": 1939,
+    "image": ""
+  },
+  {
+    "title": "Um Acidente e Outras Histórias",
+    "detective": ["Hercule Poirot", "Miss Marple", "Parker Pyne"],
+    "year": 1939,
+    "image": ""
+  },
+  {
+    "title": "Cipreste Triste",
+    "detective": ["Hercule Poirot"],
+    "year": 1940,
+    "image": ""
+  },
+  {
+    "title": "Uma Dose Mortal",
+    "detective": ["Hercule Poirot", "Chief Inspector Japp"],
+    "year": 1940,
+    "image": ""
+  },
+  {
+    "title": "Morte na Praia",
+    "detective": ["Hercule PoirotCoronel Weston", "Inspetor Colgate"],
+    "year": 1941,
+    "image": ""
+  },
+  {
+    "title": "M ou N?",
+    "detective": ["Tommy e Tuppence"],
+    "year": 1941,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Um Corpo na Biblioteca",
+    "detective": ["Miss Marple"],
+    "year": 1942,
+    "hp": true,
+    "image": "um_corpo_na_biblioteca"
+  },
+  {
+    "title": "Os Cinco Porquinhos",
+    "detective": ["Hercule Poirot"],
+    "year": 1942,
+    "image": ""
+  },
+  {
+    "title": "A Mão Misteriosa",
+    "detective": ["Jerry BurtonMiss Marple"],
+    "year": 1942,
+    "image": ""
+  },
+  {
+    "title": "Hora Zero",
+    "detective": ["Superintendente Battle", "Inspector James Leach"],
+    "year": 1944,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "E no Final a Morte",
+    "detective": ["Hori"],
+    "year": 1944,
+    "image": ""
+  },
+  {
+    "title": "Um Brinde de Cianureto",
+    "detective": ["Anthony BrowneGeorge Barton", "Coronel Race"],
+    "year": 1945,
+    "image": ""
+  },
+  {
+    "title": "A Mansão Hollow",
+    "detective": ["Hercule Poirot"],
+    "year": 1946,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Os Trabalhos de Hércules",
+    "detective": ["Hercule Poirot"],
+    "year": 1947,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Seguindo a Correnteza",
+    "detective": ["Hercule Poirot"],
+    "year": 1948,
+    "image": ""
+  },
+  {
+    "title": "Testemunha de Acusação e Outras Histórias",
+    "detective": ["Hercule Poirot"],
+    "year": 1948,
+    "image": ""
+  },
+  {
+    "title": "A Casa Torta",
+    "detective": ["Charles Hayward", "Josephine Leonides", "Inspetor Taverner"],
+    "year": 1949,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Convite para um Homicídio",
+    "detective": ["Miss Marple", "Inspetor Craddock"],
+    "year": 1950,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Os Três Ratos Cegos e Outras Histórias",
+    "detective": ["Miss Marple", "Hercule Poirot"],
+    "year": 1950,
+    "image": ""
+  },
+  {
+    "title": "Aventura em Bagdá",
+    "detective": ["Victoria Jones"],
+    "year": 1951,
+    "image": ""
+  },
+  {
+    "title": "A Morte da Sra. McGinty",
+    "detective": ["Hercule Poirot", "Ariadne Oliver"],
+    "year": 1952,
+    "image": ""
+  },
+  {
+    "title": "Um Passe de Mágica",
+    "detective": ["Miss Marple"],
+    "year": 1952,
+    "image": ""
+  },
+  {
+    "title": "Depois do Funeral",
+    "detective": ["Hercule Poirot"],
+    "year": 1953,
+    "image": ""
+  },
+  {
+    "title": "Uma Porção de Centeio",
+    "detective": ["Miss Marple", "Inspetor Neele"],
+    "year": 1953,
+    "hp": true,
+    "image": "uma_porcao_de_centeio"
+  },
+  {
+    "title": "Um Destino Ignorado",
+    "detective": ["Hilary Craven", "Inspetor Jessop"],
+    "year": 1954,
+    "image": ""
+  },
+  {
+    "title": "Morte na Rua Hickory",
+    "detective": ["Hercule Poirot"],
+    "year": 1955,
+    "image": ""
+  },
+  {
+    "title": "A Extravagância do Morto",
+    "detective": ["Hercule Poirot", "Ariadne Oliver", "Inspetor Bland"],
+    "year": 1956,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "A Testemunha Ocular do Crime",
+    "detective": ["Lucy Eyelesbarrow", "Miss Marple", "Inspetor Craddock"],
+    "year": 1957,
+    "image": ""
+  },
+  {
+    "title": "Punição para a Inocência",
+    "detective": ["Arthur Cagalry", "Philip Durrant", "Inspetor Huish"],
+    "year": 1958,
+    "hp": true,
+    "image": "punicao_para_a_inocencia"
+  },
+  {
+    "title": "Um Gato Entre os Pombos",
+    "detective": ["Adam Goodman", "Inspetor Kelsey", "Hercule Poirot"],
+    "year": 1959,
+    "image": "um_gato_entre_os_pombos"
+  },
+  {
+    "title": "A Aventura do Pudim de Natal",
+    "detective": ["Hercule Poirot", "Miss Marple"],
+    "year": 1960,
+    "image": ""
+  },
+  {
+    "title": "O Cavalo Amarelo",
+    "detective": ["Mark Easterbrook", "Inspetor Lejeune"],
+    "year": 1961,
+    "hp": true,
+    "image": "o_cavalo_amarelo"
+  },
+  {
+    "title": "A Maldição do Espelho",
+    "detective": ["Miss Marple", "Inspetor Craddock"],
+    "year": 1962,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Os Relógios",
+    "detective": ["Colin Lamb", "Inspetor Hardcastle", "Hercule Poirot"],
+    "year": 1963,
+    "image": ""
+  },
+  {
+    "title": "Um Mistério no Caribe",
+    "detective": ["Miss Marple"],
+    "year": 1964,
+    "hp": true,
+    "image": "um_misterio_no_caribe"
+  },
+  {
+    "title": "O Caso do Hotel Bertram",
+    "detective": ["Miss Marple", "Fred \"Father\" Davy"],
+    "year": 1965,
+    "image": ""
+  },
+  {
+    "title": "A Terceira Moça",
+    "detective": ["Hercule Poirot", "Ariadne Oliver"],
+    "year": 1966,
+    "image": ""
+  },
+  {
+    "title": "Noite Sem Fim",
+    "year": 1967,
+    "hp": true,
+    "image": "noite_sem_fim"
+  },
+  {
+    "title": "Um Pressentimento Funesto",
+    "detective": ["Tommy e Tuppence"],
+    "year": 1968,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "A Noite das Bruxas",
+    "detective": ["Hercule Poirot", "Ariadne Oliver"],
+    "year": 1969,
+    "hp": true,
+    "image": "noite_das_bruxas"
+  },
+  {
+    "title": "Passageiro para Frankfurt",
+    "year": 1970,
+    "hp": true,
+    "image": "passageiro_para_frankfurt"
+  },
+  {
+    "title": "Nêmesis",
+    "detective": ["Miss Marple"],
+    "year": 1971,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "A Mina de Ouro",
+    "year": 1971,
+    "image": ""
+  },
+  {
+    "title": "Elefantes Nunca Esquecem",
+    "detective": ["Hercule Poirot", "Ariadne Oliver"],
+    "year": 1972,
+    "hp": true,
+    "image": "elefantes_nunca_esquecem"
+  },
+  {
+    "title": "Portal do Destino",
+    "detective": ["Tommy e Tuppence"],
+    "year": 1973,
+    "image": ""
+  },
+  {
+    "title": "Os Primeiros Casos de Poirot",
+    "detective": ["Hercule Poirot"],
+    "year": 1974,
+    "image": ""
+  },
+  {
+    "title": "Cai o Pano",
+    "detective": ["Hercule Poirot", "Arthur Hastings"],
+    "year": 1975,
+    "hp": true,
+    "image": ""
+  },
+  {
+    "title": "Um Crime Adormecido",
+    "detective": ["Gwenda Reed", "Giles Reed", "Miss Marple"],
+    "year": 1976
+  }
+]
