@@ -40,11 +40,11 @@ const InfoPokemon: React.FC<Props> = ({ pokemon, onPokemonClick }) => {
         <Panel key={"evolutions"} name="Evolutions">
           <Evolutions pokemon={pokemon} onPokemonClick={onPokemonClick} />
         </Panel>
-        {pokemon.varieties.length ? (
+        {/* {pokemon.varieties.length ? (
           <Panel key="variações" name="Variações">
             <Varieties pokemon={pokemon} onPokemonClick={onPokemonClick} />
           </Panel>
-        ) : null}
+        ) : null} */}
       </Tabs>
     </Container>
   );

@@ -6,10 +6,11 @@ export const Card = styled.section`
   padding: 16px;
   position: relative;
   cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 `;
 
 export const CardTitle = styled.h2`
-  color: #fff;
+  color: #333;
   text-transform: capitalize;
   margin: 0 0 8px;
 `;

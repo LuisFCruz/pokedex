@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, {css} from "styled-components";
 
 export const TabContainer = styled.div`
   display: flex;
@@ -13,7 +13,7 @@ export const Item = styled.div<ListItemProps>`
   font-weight: 700;
   position: relative;
   cursor: pointer;
-  color: rgba(250, 250, 250, 0.8);
+  color: #555;
   user-select: none;
   display: flex;
   align-items: center;
@@ -24,11 +24,11 @@ export const Item = styled.div<ListItemProps>`
 
   ${({ active = false }) =>
     active &&
-    `
+    css`
       background: #FFF;
       border-top-left-radius: 16px;
       border-top-right-radius: 16px;
-      color: #000;
+      color: #333;
 
       &:not(:first-child)::before {
         content: '';

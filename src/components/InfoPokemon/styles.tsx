@@ -28,17 +28,17 @@ export const Header = styled.div`
 
 export const Title = styled.h2`
   margin: 0 0 16px;
-  color: #fff;
+  color: #333;
   text-transform: capitalize;
   display: flex;
   align-items: center;
 `;
 
 export const Number = styled.span`
-  opacity: 0.6;
+  opacity: 0.8;
   font-size: 28px;
   font-weight: 700;
-  color: #fff;
+  color: #333;
   margin-right: 8px;
   position: absolute;
   top: 24px;
